@@ -8,8 +8,6 @@ import json
     One idea is to make the list shorten to [1, "..."]
 '''
 
-y = '{ "num": 20.57, "short_str": "abc", "long_str": "abcdefghijklmnopqrstuvwxyz", "list_of_nums": [1], "list_of_objs": [{"num": 2}] }'
-
 def extract_JSON_structure(json_obj, max_chars, max_str_len):
     '''
         json_obj: string of JSON data
@@ -53,5 +51,3 @@ def get_list_repr(lst, max_str_len):
 
 def get_str_repr(str, max_str_len):
     return str[:max_str_len] + "..."
-
-print(extract_JSON_structure(y, 1000, 10))
