@@ -1,0 +1,9 @@
+{
+    "inspections": [
+        {"_id":{"$oid":"56d61033a378eccde8a8354f"},"id":"10021-2015-ENFO","certificate_number":9278806,"business_name":"ATLIXCO DELI GROCERY INC.","date":"Feb 20 2015","result":"No Violation Issued","sector":"Cigarette Retail Dealer - 127","address":{"city":"RIDGEWOOD","zip":11385,"street":"MENAHAN ST","number":1712}},
+        {"_id":{"$oid":"56d61033a378eccde8a83550"},"id":"10057-2015-ENFO","certificate_number":6007104,"business_name":"LD BUSINESS SOLUTIONS","date":"Feb 25 2015","result":"Violation Issued","sector":"Tax Preparers - 891","address":{"city":"NEW YORK","zip":10030,"street":"FREDERICK DOUGLASS BLVD","number":2655}},
+        {"_id":{"$oid":"56d61033a378eccde8a83551"},"id":"10084-2015-ENFO","certificate_number":9278914,"business_name":"MICHAEL GOMEZ RANGHALL","date":"Feb 10 2015","result":"No Violation Issued","sector":"Locksmith - 062","address":{"city":"QUEENS VLG","zip":11427,"street":"214TH ST","number":8823}},
+        {"_id":{"$oid":"56d61033a378eccde8a83552"},"id":"1012-2015-CMPL","certificate_number":5346909,"business_name":"A\u0026C CHIMNEY CORP.","date":"Apr 22 2015","result":"Violation Issued","sector":"Home Improvement Contractor - 100","address":{"city":"QUEENS VLG","zip":11428,"street":"210TH ST","number":9440}}
+    ]
+}
+

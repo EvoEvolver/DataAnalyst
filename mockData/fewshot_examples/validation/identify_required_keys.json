@@ -1,0 +1,38 @@
+{
+    "websites": [
+        {
+            "site": "https://www.randomwebsite.com/",
+            "views": 2045,
+            "owner": "Jacob Smith",
+            "pages": [
+                {
+                    "name": "homepage",
+                    "page_views": 1033
+                },
+                {
+                    "name": "about us",
+                    "page_views": 523
+                }
+            ]
+        },
+        {
+            "site": "https://www.examplewebsite.com/",
+            "views": 4241,
+            "owner": "Alexander Wright",
+            "pages": [
+                {
+                    "name": "main page",
+                    "page_views": 4100
+                },
+                {
+                    "name": "articles",
+                    "page_views": 922
+                },
+                {
+                    "name": "companies",
+                    "page_views": "2335"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+===== LEVEL 1 =====
+
+City inspections
+- Q: what is the average number of violations issued?
+- A: 0.5
+- ../mockData/Level 1/city_inspections/city_inspections_input.json
+- ../mockData/Level 1/city_inspections/city_inspections_schema.json
+
+Pokedex
+- Q: what is the average pokemon weight?
+- A: 32.1
+- ../mockData/Level 1/pokedex/pokedex_input.json
+- ../mockData/Level 1/pokedex/pokedex_schema.json
+
+Students
+- Q: what is the average exam score?
+- A: 73.675
+- ../mockData/Level 1/students/students_input.json
+- ../mockData/Level 1/students/students_schema.json
+
+===== LEVEL 2 =====
+
+Asteroids
+ - Q: What is the average eccentricity for Amor asteroids?
+ - A: 0.5487
+ - ../mockData/Level 2/asteroids/asteroids_input.json
+ - ../mockData/Level 2/asteroids/asteroids_schema.json
+
+Mental Health
+ - Q: How many survery respondents have employers that provide mental health benefits?
+ - A: 1
+ - ../mockData/Level 2/mental_health_tech_survey/mental_health_input.json
+ - ../mockData/Level 2/mental_health_tech_survey/mental_health_schema.json
+
+NBA Games
+ - Q: What is the average percent increase in turnovers from a winning team to losing team in a game?
+ - A: 16.21
+ - ../mockData/Level 2/nba_games/nba_input.json
+ - ../mockData/Level 2/nba_games/nba_schema.json

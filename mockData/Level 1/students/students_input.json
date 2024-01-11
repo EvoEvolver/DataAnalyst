@@ -1,0 +1,8 @@
+{
+    "results": [
+        {"_id":0,"name":"Walter White","scores":[{"score":95.09,"type":"exam"},{"score":87.08,"type":"homework"},{"score":50.12,"type":"test"}]},
+        {"_id":1,"name":"Jesse Pinkman","scores":[{"score":20.56,"type":"exam"},{"score":45.72,"type":"homework"},{"score":69.76,"type":"test"}]},
+        {"_id":2,"name":"Peter Parker","scores":[{"score":80.04,"type":"exam"},{"score":89.09,"type":"homework"},{"score":90.21,"type":"test"}]},
+        {"_id":3,"name":"Tony Stark","scores":[{"score":99.01,"type":"exam"},{"score":60.43,"type":"homework"},{"score":88.12,"type":"test"}]}
+    ]
+}

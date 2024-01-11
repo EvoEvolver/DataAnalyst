@@ -1,0 +1,2 @@
+Pokedex:
+ - I edited it so that the spawn fields are nested under a new field called "spawn_data"

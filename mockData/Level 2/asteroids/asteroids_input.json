@@ -1,0 +1,9 @@
+{
+    "asteroids": [
+        {"designation":"356394 (2010 QD2)","discovery_date":"2010-08-21T00:00:00.000","h_mag":"17.4","moid_au":"0.061","q_au_1":"0.43","q_au_2":"3.59","period_yr":"2.85","i_deg":"10.64","pha":"N","orbit_class":"Apollo"},
+        {"designation":"(2015 HF11)","discovery_date":"2015-04-17T00:00:00.000","h_mag":"19.2","moid_au":"0.225","q_au_1":"1.22","q_au_2":"2.93","period_yr":"2.99","i_deg":"34.89","pha":"N","orbit_class":"Amor"},
+        {"designation":"(2015 GK50)","discovery_date":"2015-04-05T00:00:00.000","h_mag":"20.5","moid_au":"0.237","q_au_1":"1.03","q_au_2":"5.12","period_yr":"5.39","i_deg":"19.07","pha":"N","orbit_class":"Amor"},
+        {"designation":"(2015 GJ46)","discovery_date":"2015-04-11T00:00:00.000","h_mag":"19.3","moid_au":"0.238","q_au_1":"0.67","q_au_2":"5.06","period_yr":"4.85","i_deg":"18.22","pha":"N","orbit_class":"Apollo"},
+        {"designation":"(2015 FT344)","discovery_date":"2015-03-23T00:00:00.000","h_mag":"20.5","moid_au":"0.203","q_au_1":"1.09","q_au_2":"4.01","period_yr":"4.07","i_deg":"12.55","pha":"N","orbit_class":"Amor"}
+    ]
+}

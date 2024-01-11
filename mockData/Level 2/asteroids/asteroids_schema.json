@@ -1,0 +1,11 @@
+{
+    "asteroids": [
+        {"designation":"(2010 DJ77)","discovery_date":"2010-02-20T00:00:00.000","h_mag":"21.6","moid_au":"0.05","q_au_1":"0.75","q_au_2":"1.16","period_yr":"0.93","i_deg":"24.98","pha":"Y","orbit_class":"Aten"},
+    {"designation":"(2010 DH77)","discovery_date":"2010-02-19T00:00:00.000","h_mag":"21.8","moid_au":"0.146","q_au_1":"0.95","q_au_2":"5.58","period_yr":"5.9","i_deg":"34.38","pha":"N","orbit_class":"Apollo"},
+    {"designation":"(2010 DG77)","discovery_date":"2010-02-19T00:00:00.000","h_mag":"21.4","moid_au":"0.009","q_au_1":"0.96","q_au_2":"3.22","period_yr":"3.02","i_deg":"14.81","pha":"Y","orbit_class":"Apollo"},
+    {"designation":"(2010 DM56)","discovery_date":"2010-02-19T00:00:00.000","h_mag":"19.9","moid_au":"0.006","q_au_1":"0.92","q_au_2":"1.69","period_yr":"1.49","i_deg":"25.61","pha":"Y","orbit_class":"Apollo"},
+    {"designation":"(2010 DJ56)","discovery_date":"2010-02-23T00:00:00.000","h_mag":"19.3","moid_au":"0.028","q_au_1":"0.94","q_au_2":"1.56","period_yr":"1.4","i_deg":"34.84","pha":"Y","orbit_class":"Apollo"}
+    ]
+}
+
+

@@ -1,0 +1,88 @@
+{
+    "stats": {
+        "responses": {
+            "showing": 3,
+            "total": 3805,
+            "completed": 1433
+        }
+    },
+    "questions": [
+        {
+            "id": "list_18065507_choice",
+            "question": "<strong id=\"docs-internal-guid-5fe31601-29b5-cdd7-9eab-ac5384b8bb15\" style=\"font-weight: normal;\">Does your employer provide mental health benefits<strong id=\"docs-internal-guid-3c0f58bf-4d33-e6ee-c1bd-70bba80db500\" style=\"font-weight: normal;\"> as part of healthcare coverage</strong>?</strong>",
+            "field_id": 18065507,
+            "group": "group_18065393"
+        },
+        {
+            "id": "list_18066083_choice",
+            "question": "<strong id=\"docs-internal-guid-3c0f58bf-4d40-493f-f25f-7c36fefb0486\" style=\"font-weight: normal;\">Do you believe your productivity is ever affected by a mental health issue?</strong>",
+            "field_id": 18066083,
+            "group": "group_18065413"
+        },
+        {
+            "id": "list_18065813_choice",
+            "question": "Do you feel that your employer takes mental health as seriously as physical health?",
+            "field_id": 18065813,
+            "group": "group_18065393"
+        }
+    ],
+    "responses": [
+        {
+            "completed": "1",
+            "token": "bbd31ae24e49278ea4f395cc2e4eb18b",
+            "metadata": {
+                "browser": "default",
+                "platform": "other",
+                "date_land": "2016-03-14 13:54:17",
+                "date_submit": "2016-03-14 14:00:36",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:44.0) Gecko/20100101 Firefox/44.0",
+                "referer": "https://cojfunkatroncom.typeform.com/to/Ao6BTw",
+                "network_id": "addd5ce59b"
+            },
+            "hidden": [],
+            "answers": {
+                "list_18065507_choice": "Not eligible for coverage / N/A",
+                "list_18066083_choice": "Yes",
+                "list_18065813_choice": "I don't know"
+            }
+        },
+        {
+            "completed": "1",
+            "token": "62ea0985724dbc093db89c4897bebf64",
+            "metadata": {
+                "browser": "default",
+                "platform": "other",
+                "date_land": "2016-03-14 13:54:24",
+                "date_submit": "2016-03-14 14:03:32",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36",
+                "referer": "https://cojfunkatroncom.typeform.com/to/Ao6BTw",
+                "network_id": "c740939676"
+            },
+            "hidden": [],
+            "answers": {
+                "list_18065507_choice": "No",
+                "list_18066083_choice": "Yes",
+                "list_18065813_choice": "Yes"
+            }
+        },
+        {
+            "completed": "1",
+            "token": "759f9e4cf846da51a1bbe177edaf88a1",
+            "metadata": {
+                "browser": "default",
+                "platform": "other",
+                "date_land": "2016-03-14 13:56:12",
+                "date_submit": "2016-03-14 14:16:30",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:44.0) Gecko/20100101 Firefox/44.0",
+                "referer": "https://cojfunkatroncom.typeform.com/to/Ao6BTw",
+                "network_id": "4d75cc95d8"
+            },
+            "hidden": [],
+            "answers": {
+                "list_18065507_choice": "Yes",
+                "list_18066083_choice": "Yes",
+                "list_18065813_choice": "No"
+            }
+        }
+    ]
+}
